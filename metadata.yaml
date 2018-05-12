@@ -1,0 +1,31 @@
+_repo: Eredeti-n-pmes-k--1.-r-sz-_39419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merényi, László
+    alias: Merenyi, Laszlo
+    birthdate: 1837
+    deathdate: 1907
+    gutenberg_agent_id: '39531'
+    url: http://www.gutenberg.org/2009/agents/39531
+    wikipedia: http://hu.wikipedia.org/wiki/Mer%C3%A9nyi_L%C3%A1szl%C3%B3
+description: ''
+gutenberg_issued: '2012-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39419'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Hungary'
+tableOfContents: A kigyóbőr -- A szárdiniai király fia -- Vízi Péter és Vízi Pál --
+  Kilinkó -- A kerek kő -- A farkas és a róka komasága -- A szegény ember és a komája
+  -- A vén király -- A medve és a farkas -- Bolond Jankó -- Néptalányok.
+title: Eredeti népmesék (1. rész)
+url: http://www.gutenberg.org/ebooks/39419
